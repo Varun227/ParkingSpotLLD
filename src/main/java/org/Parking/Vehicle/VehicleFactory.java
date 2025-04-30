@@ -1,4 +1,4 @@
-package org.example.Vehicle;
+package org.Parking.Vehicle;
 
 public class VehicleFactory {
 }

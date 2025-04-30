@@ -1,11 +1,10 @@
-package org.example;
+package org.Parking;
 
-import org.example.CommonEnum.DurationType;
-import org.example.FareStrategy.RateStrategy;
-import org.example.Vehicle.Vehicle;
-import org.example.parkingspot.ParkingSpot;
+import org.Parking.FareStrategy.RateStrategy;
+import org.Parking.Vehicle.Vehicle;
+import org.Parking.parkingspot.ParkingSpot;
 
-import org.example.FareStrategy.ParkingFeeStrategy;
+import org.Parking.FareStrategy.ParkingFeeStrategy;
 
 import java.util.ArrayList;
 import java.util.List;

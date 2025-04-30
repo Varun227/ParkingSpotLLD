@@ -1,6 +1,6 @@
-package org.example.Vehicle;
+package org.Parking.Vehicle;
 
-import org.example.FareStrategy.ParkingFeeStrategy;
+import org.Parking.FareStrategy.ParkingFeeStrategy;
 
 public class CarVehicle extends Vehicle {
     public CarVehicle(String licensePlate, String vehicleType, ParkingFeeStrategy feeStrategy) {

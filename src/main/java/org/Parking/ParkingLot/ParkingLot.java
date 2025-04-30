@@ -1,9 +1,9 @@
-package org.example.ParkingLot;
+package org.Parking.ParkingLot;
 import java.util.*;
 
 
-import org.example.parkingspot.ParkingSpot;
-import org.example.Vehicle.Vehicle;
+import org.Parking.parkingspot.ParkingSpot;
+import org.Parking.Vehicle.Vehicle;
 
 public class ParkingLot {
     private String name;

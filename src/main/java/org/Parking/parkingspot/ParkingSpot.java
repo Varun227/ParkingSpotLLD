@@ -1,6 +1,6 @@
-package org.example.parkingspot;
+package org.Parking.parkingspot;
 
-import org.example.Vehicle.Vehicle;
+import org.Parking.Vehicle.Vehicle;
 public class ParkingSpot {
     private String spotNumber;
     private boolean isOccupied;

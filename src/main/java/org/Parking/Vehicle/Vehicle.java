@@ -1,8 +1,8 @@
-package org.example.Vehicle;
+package org.Parking.Vehicle;
 
-import org.example.FareStrategy.ParkingFeeStrategy;
+import org.Parking.FareStrategy.ParkingFeeStrategy;
 
-import org.example.CommonEnum.DurationType;
+import org.Parking.CommonEnum.DurationType;
 
 public class Vehicle {
     private String vehicleNumber;

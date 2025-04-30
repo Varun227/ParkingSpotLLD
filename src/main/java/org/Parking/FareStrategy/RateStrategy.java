@@ -1,6 +1,6 @@
-package org.example.FareStrategy;
+package org.Parking.FareStrategy;
 
-import org.example.CommonEnum.DurationType;
+import org.Parking.CommonEnum.DurationType;
 
 public class RateStrategy implements ParkingFeeStrategy {
 

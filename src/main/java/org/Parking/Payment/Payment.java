@@ -1,4 +1,4 @@
-package org.example.Payment;
+package org.Parking.Payment;
 
 public class Payment {
     private String paymentMethod;
